@@ -1,0 +1,76 @@
+#home {
+  list-style-type: none;
+margin: 0;
+  padding:0px;
+  /*overflow: hidden;*/
+  position: -webkit-sticky; 
+  position: sticky;
+  top: 0;
+ float: left;
+ background-color: rgba(0,0,0,0.3);
+   display: block;
+
+  text-align: center;
+  padding: 14px 16px;
+  }
+
+  #home  button:hover:not(.active) {
+  background-color: #333;
+}
+
+
+
+.profile {
+	padding: 20px 16px;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("probck.jpg");
+	font-family: "Audiowide", sans-serif;
+	font-size: 30px;
+	border-radius: 25px;
+	color: #FFFFF0;
+}
+
+.head{
+	text-align: center;
+}
+
+
+.Education {
+	
+	background-color: #FFFACD;
+	color: #D2691E;
+	border-radius: 25px;
+	display: inline-block;
+
+}
+
+#lan {
+	height: 400px;
+	width: 400px;
+	font-family: "Audiowide", sans-serif;
+	margin-top: 280px;
+	margin-bottom: -205px;
+	top: 50%; 
+    left: 50%; 
+    transform: translate(-0%, -63%); 
+
+ }
+
+#hob {
+
+	height: 400px;
+	width: 400px;
+	font-family: "Audiowide", sans-serif;
+	margin-top: 330px;
+	margin-bottom: -245px;
+	top: 50%; 
+    left: 50%; 
+    transform: translate(-0%, -73%); 
+ }
+
+ #edu {
+	width: 400px;
+	font-family: "Audiowide", sans-serif;
+	margin-top: 30px;
+	margin-bottom: 30px;
+ }
+

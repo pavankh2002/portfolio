@@ -1,0 +1,35 @@
+.flex{
+	 display: flex;
+	 text-align: center;
+	 background-color: grey;
+	 border-radius: 25px;
+	 font-family: "Lucida Console", "Courier New", monospace;
+	 flex-wrap: wrap;
+
+}
+
+.flex div{
+
+	margin: 0px;
+  	padding: 60px;
+  	width: 300px;
+	margin: 10px;
+  	padding: 60px;
+  	font-size: 20px;
+ 	width: 300px;
+  	border-radius: 25px;
+	text-align: center;
+	background-color: #f1f1f1;
+}
+
+.auto{
+	text-align: center;
+}
+
+.pic{
+	align-content: center;
+}
+
+body{
+	font-family: "Lucida Console", "Courier New", monospace;
+}

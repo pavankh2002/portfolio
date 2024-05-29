@@ -1,0 +1,36 @@
+#head{
+  color: white;
+  text-align: center;
+}
+
+body{
+  background-color: black;
+}
+
+
+.flexcontainer {
+  display: flex;
+  background-color:black;
+  flex-wrap: wrap;
+   border-radius: 25px;
+
+}
+
+.flexcontainer div {
+  background-color: #f1f1f1;
+  margin: 10px;
+  padding: 60px;
+  font-size: 20px;
+  width: 300px;
+  border-radius: 25px;
+text-align: center;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 600,
+  'GRAD' 0,
+  'opsz' 24
+}
+
